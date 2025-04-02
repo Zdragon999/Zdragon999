@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Zdragon999
-- 👀 I’m interested in web programming
+- 👋 Hi, I’m Ankit.
+- 👀 I’m interested in web programming.
 - 🌱 I’m currently learning Django framework.
+- - ⚡ Fun fact: I am from Earth.
   
-<h1> 📫 How to reach me ...</h1>
+<h2> 📫 How to reach me ...</h2>
 - Email- zdragon339@gmail.com
+-Linkdin-......
+-Instagram-.....
 
-- ⚡ Fun fact: I am from Earth.
+
 
 <!---
 Zdragon999/Zdragon999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
